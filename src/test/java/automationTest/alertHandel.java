@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 public class alertHandel {
 
-	@Test
+
 	public void alert()
 	{
 		WebDriver driver=new ChromeDriver();
